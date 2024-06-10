@@ -1,0 +1,60 @@
+.footer {
+    width: 100%;
+    padding: 4rem 0;
+    background: url(https://img.freepik.com/free-photo/ursa-major-ursa-minor-constellations_23-2150028869.jpg?t=st=1713206598~exp=1713210198~hmac=146b8215191599b614561986e7b354aa8dd7ce74d4004c9b7e69db79c764a439&w=740);
+    
+}
+
+.footer-container {
+    max-width: 1140px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 40px;
+    font-size: medium;
+}
+.left {
+    height: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+.location {
+    display: flex;
+    margin-bottom: 0.8rem;
+}
+.location p {
+    line-height: 30px;
+}
+.right{
+    height: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+.social {
+    margin-top: 1rem;
+    color: yellow;
+    
+}
+h4 {
+    font-size: 1.2rem;
+    padding-bottom: 0.7rem;
+}
+h1{
+    color: white;
+}
+
+p {
+    font-size: 1.2rem;
+}
+@media screen and (max-width: 640px) {
+    .footer-container {
+        
+        grid-template-columns: 1fr;
+        
+    }
+    
+    }

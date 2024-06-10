@@ -1,0 +1,30 @@
+.about {
+    width: 100%;
+    margin: 3rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 80%;
+    background: url(https://img.freepik.com/free-photo/ursa-major-ursa-minor-constellations_23-2150028869.jpg?t=st=1713206598~exp=1713210198~hmac=146b8215191599b614561986e7b354aa8dd7ce74d4004c9b7e69db79c764a439&w=740);
+    
+    
+}
+
+
+
+.about .left p {
+    margin: 0.8rem 0;
+    color: white;
+    
+    font-size: large;
+    
+
+}
+
+.about .left h1 {
+    color: white;
+}
+.edu{
+    text-align: justify;
+}

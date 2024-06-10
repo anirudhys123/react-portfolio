@@ -1,0 +1,55 @@
+.project-heading {
+    text-align: center;
+    padding: 8rem 0 2rem;
+}
+.project-container {
+    max-width: 1140px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 40px;
+    padding-bottom: 5rem;
+    background: url(https://img.freepik.com/free-photo/ursa-major-ursa-minor-constellations_23-2150028869.jpg?t=st=1713206598~exp=1713210198~hmac=146b8215191599b614561986e7b354aa8dd7ce74d4004c9b7e69db79c764a439&w=740);
+}
+.project-card {
+    background: rgb(108, 73, 189);
+    padding: 1.2rem 1rem;
+    box-shadow: 5px 5px 5px yellow;
+}
+.project-card img {
+    width: 100%;
+}
+
+.project-title {
+    color: white;
+    padding: 1rem;
+    font-weight: bolder;
+}
+.pro-details p {
+    padding-bottom: 0.2rem;
+    font-size: 15px;
+    text-align: justify;
+    color: white;
+    font-weight: bolder;
+}
+.pro-btns {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0.5rem;
+    padding: 15px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    
+    
+}
+
+
+@media screen and (max-width:740px) {
+    .project-container {
+        max-width: 90%;
+        margin: auto;
+        grid-template-columns: 1fr;
+    }
+
+    
+}
