@@ -7,13 +7,13 @@ const Footer = () => {
     <div className="footer">
       <div className="footer-container">
         <div className="left">
-          <div className="location">
+          {/* <div className="location">
             <FaHome size={30} style={{ color: "#fff", marginRight: "2rem" }} />
             <div>
               <p>88/A, 89/A Flat no 202 Balaji Residency</p>
               <p>Vengal-Rao Nagar, Hyderabad, 500038.  </p> 
             </div>
-          </div>
+          </div> */}
           <div className="phone">
             <h4>
               <FaPhone size={30} style={{ color: "#fff", marginRight: "2rem" }} />

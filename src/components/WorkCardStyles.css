@@ -15,9 +15,17 @@
     background: rgb(108, 73, 189);
     padding: 1.2rem 1rem;
     box-shadow: 5px 5px 5px yellow;
+    transform: scale(1,1);
+    transition: 0.5s;
+    margin: 10px;
+}
+.project-card:hover{
+    transform: scale(1.1,1.1);
+    transition: 0.5s;
 }
 .project-card img {
     width: 100%;
+    height: auto;
 }
 
 .project-title {
