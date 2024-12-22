@@ -28,14 +28,21 @@ const Footer = () => {
           </div>
         </div>
         <div className="right">
-            <h1> Social Media</h1>
-            <div className="social">
-           <a href = "https://www.facebook.com/profile.php?id=100011130556611"><FaFacebook size={50} style={{ color: "yellow", marginRight: "1rem" }} /> </a> 
-           <a href = "https://www.instagram.com/ani_ys_15/"> <FaInstagram size={50} style={{ color: "yellow", marginRight: "1rem" }} /></a>
-           <a href = "https://www.linkedin.com/in/anirudh-yellapragada-b82262207/"> <FaLinkedin size={50} style={{ color: "yellow", marginRight: "1rem" }} /> </a>
-           <a href = "https://github.com/anirudhys123"> <FaGithub size={50} style={{ color: "yellow", marginRight: "1rem" }} /> </a>
-            </div>
-
+          <h1>Social Media</h1>
+          <div className="social">
+            <a href="https://www.facebook.com/profile.php?id=100011130556611" target="_blank" rel="noopener noreferrer">
+              <FaFacebook size={50} style={{ color: "yellow", marginRight: "1rem" }} />
+            </a>
+            <a href="https://www.instagram.com/ani_ys_15/" target="_blank" rel="noopener noreferrer">
+              <FaInstagram size={50} style={{ color: "yellow", marginRight: "1rem" }} />
+            </a>
+            <a href="https://www.linkedin.com/in/sai-anirudh-yellapragada-b82262207/" target="_blank" rel="noopener noreferrer">
+              <FaLinkedin size={50} style={{ color: "yellow", marginRight: "1rem" }} />
+            </a>
+            <a href="https://github.com/anirudhys123" target="_blank" rel="noopener noreferrer">
+              <FaGithub size={50} style={{ color: "yellow", marginRight: "1rem" }} />
+            </a>
+          </div>
         </div>
       </div>
     </div>
