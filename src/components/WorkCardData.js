@@ -12,9 +12,18 @@ import pro12 from "../assests/chess.png";
 import pro13 from "../assests/food.png"
 import pro14 from "../assests/saloon.png"
 import pro15 from "../assests/grocery.png"
+import pro16 from "../assests/sfd_bmd.png"
 
 
 const ProjectCardData = [
+
+  {
+    imgsrc: pro16,
+    title: "SFD and BMD Calculator",
+    text: "Developed a web-based SFD & BMD Calculator using React (Frontend) and Python (Backend) to analyze and visualize shear force and bending moment distributions in beams.",
+    view: "https://sfd-bmd-calculator.vercel.app/",
+  },
+
 
   {
     imgsrc: pro13,
@@ -89,6 +98,7 @@ const ProjectCardData = [
     view: "https://drive.google.com/file/d/1rIbdxigbhkbj9-nM-1pbnAUlPqrXFWFz/view?usp=drive_link",
   },
 
+  
  
 
   {
