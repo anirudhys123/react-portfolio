@@ -7,7 +7,7 @@ const AboutContent = () => {
     <div className="about">
         <div className="left">
             <h1><u>My Education</u> </h1> 
-            <p class="edu">I am currently pursuing Integrated M.Tech and currently maintaining GPA of 7.8 till 5th year 1st semester.</p> 
+            <p class="edu">I am currently pursuing Integrated M.Tech and currently maintaining GPA of 8/10 till 5th year 1st semester.</p> 
             <h1><u>My Skills</u> </h1> 
             <p>Languages/Softwares: C, JAVA, Python, Ansys, Matlab.</p> 
             <p> Frontend Technologies: Html, CSS, JavaScript, React.</p>
