@@ -13,6 +13,7 @@ import pro13 from "../assests/food.png"
 import pro14 from "../assests/saloon.png"
 import pro15 from "../assests/grocery.png"
 import pro16 from "../assests/sfd_bmd.png"
+import pro17 from "../assests/Input.jpg"
 
 
 const ProjectCardData = [
@@ -24,6 +25,14 @@ const ProjectCardData = [
     view: "https://sfd-bmd-calculator.vercel.app/",
   },
 
+  {
+    imgsrc: pro17,
+    title: "Converting Image into a pencil sketch using Python",
+    text: "Developed a Python script to convert an image into a pencil sketch using OpenCV , sci-kit,  , turtle graphics, pillow, NumPy libraries",
+    view: "https://drive.google.com/file/d/1-lPwDPdVbwfdMQMiuylTD8lEdK7jEqZC/view?usp=sharing",
+  },
+
+
 
   {
     imgsrc: pro14,
@@ -32,7 +41,7 @@ const ProjectCardData = [
     view: "https://anirudh-saloons.vercel.app/",
   },
 
-  
+
 
   {
     imgsrc: pro13,
