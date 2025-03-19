@@ -26,17 +26,21 @@ const ProjectCardData = [
 
 
   {
+    imgsrc: pro14,
+    title: "Saloon Booking Website",
+    text: "This website was made by using React JS and deployed at Vercel. From this the user can book appointments for his/her desired saloons and can access services. It is made responsive now so kindly view it on laptop and mobile devices.",
+    view: "https://anirudh-saloons.vercel.app/",
+  },
+
+  
+
+  {
     imgsrc: pro13,
     title:  "Food Delivery Website",
     text: "This website was made by using React JS and deployed at Vercel. From this the user can order food items at his/her location. It is not responsive now so kindly view it on laptop only.",
     view: "https://anirudh-foods.vercel.app/",
   },
-  {
-    imgsrc: pro14,
-    title: "Saloon Booking Website",
-    text: "This website was made by using React JS and deployed at Vercel. From this the user can book appointments for his/her desired saloons and can access services. It is not responsive now so kindly view it on laptop only.",
-    view: "https://anirudh-saloons.vercel.app/",
-  },
+  
   {
     imgsrc: pro15,
     title: "Grocery Website",
