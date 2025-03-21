@@ -14,6 +14,7 @@ import pro14 from "../assests/saloon.png"
 import pro15 from "../assests/grocery.png"
 import pro16 from "../assests/sfd_bmd.png"
 import pro17 from "../assests/Input.jpg"
+import pro18 from "../assests/unit.png"
 
 
 const ProjectCardData = [
@@ -33,6 +34,13 @@ const ProjectCardData = [
   },
 
 
+
+  {
+    imgsrc: pro18,
+    title: "Engineering Unit Converter",
+    text: "Developed a responsive web-based Engineering Unit Converter using React JS for accurate, real-time conversions of length, area, volume, temperature, pressure, and mass. Designed to assist mechanical engineering students in simplifying design tasks, lab work, and academic projects by minimizing manual errors and saving time.",
+    view: "https://jntuh-mechanical.vercel.app/",
+  },
 
   {
     imgsrc: pro14,
