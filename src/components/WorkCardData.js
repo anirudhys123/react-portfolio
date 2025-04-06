@@ -42,6 +42,7 @@ const ProjectCardData = [
     view: "https://jntuh-mechanical.vercel.app/",
   },
 
+ 
   {
     imgsrc: pro14,
     title: "Saloon Booking Website",
