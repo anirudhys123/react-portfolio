@@ -9,6 +9,7 @@ const AboutContent = () => {
             <h1><u>My Education</u> </h1> 
             <p class="edu">I am currently pursuing Integrated M.Tech and currently maintaining GPA of 8/10 till 5th year 1st semester.</p> 
             <h1><u>My Skills</u> </h1> 
+            <p>Design Softwares (Mechanical) : AutoCAD</p>
             <p>Languages/Softwares: C, JAVA, Python, Ansys, Matlab.</p> 
             <p> Frontend Technologies: Html, CSS, JavaScript, TypeScript, Bootstrap, React, Material UI.</p>
             <p>Data Bases: MongoDB , SQL</p>
