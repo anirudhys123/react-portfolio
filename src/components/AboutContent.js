@@ -15,7 +15,7 @@ const AboutContent = () => {
             <p> Back end Technologies : Node JS , Express JS</p>
             <p>Developer Tools: VS Code, Github</p>
             <p> Hosting Tools : Vercel , Firebase , Netlify , AWS</p>
-            <p>Strengths: Dedication, Sincerity, Honesty, Punctuality.</p>
+            {/* <p>Strengths: Dedication, Sincerity, Honesty, Punctuality.</p> */}
         </div>
         <div className="right">
         </div>
