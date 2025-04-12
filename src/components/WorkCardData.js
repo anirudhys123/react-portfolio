@@ -53,11 +53,6 @@ const ProjectCardData = [
     text: "Developed a Python script to convert an image into a pencil sketch using OpenCV , sci-kit,  , turtle graphics, pillow, NumPy libraries",
     view: "https://drive.google.com/file/d/1-lPwDPdVbwfdMQMiuylTD8lEdK7jEqZC/view?usp=sharing",
   },
-
-
-
-  
-
  
   {
     imgsrc: pro14,
@@ -65,8 +60,6 @@ const ProjectCardData = [
     text: "This website was made by using React JS and deployed at Vercel. From this the user can book appointments for his/her desired saloons and can access services. It is made responsive now so kindly view it on laptop and mobile devices.",
     view: "https://anirudh-saloons.vercel.app/",
   },
-
-
 
   {
     imgsrc: pro13,
