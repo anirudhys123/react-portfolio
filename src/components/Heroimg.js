@@ -12,7 +12,7 @@ const HeroImg = () => {
 
     </div> 
     <div className="content" >
-    <h1>Mechanical Engineer && MERN Stack Developer</h1>
+    <h1>UI/ UX Designer && MERN Stack Developer</h1>
 
       <div style={{marginLeft:'-35px'}}>
         <Link to="/project" className="btn">my work</Link>
