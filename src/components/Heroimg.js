@@ -11,7 +11,10 @@ const HeroImg = () => {
         <img className="into-img" src={IntroImg} alt="IntroImg" />
       </div>
       <div className="content">
+
         <h1>UI and UX Designer && MERN Stack Developer</h1>
+        <h1>UI UX Designer && MERN Stack Developer</h1>
+
         <div style={{ marginLeft: '-35px' }}>
           <Link to="/project" className="btn">my work</Link>
           <Link to="/contact" className="btn btn-light">Contact</Link>
