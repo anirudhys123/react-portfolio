@@ -16,9 +16,18 @@ import pro16 from "../assests/sfd_bmd.png"
 import pro17 from "../assests/Input.jpg"
 import pro18 from "../assests/unit.png"
 import pro19 from "../assests/chat-bot.png"
-
+import pro20 from "../assests/quiz.png"
 
 const ProjectCardData = [
+
+  {
+    imgsrc: pro20,
+    title: "Quiz Application",
+    text: "Built a Multi-Exam Quiz App for students and professionals preparing for GATE, JEE, UPSC, GMAT, and Data Center exams. It offers timed quizzes, formula-based revisions, and performance analytics to improve accuracy and time management. Developed using Next.js with a JSON-based question bank, versioned on GitHub, and deployed on Vercel for optimized performance."
+,
+    view: "https://anirudh-sharma-quiz-app.vercel.app/",
+  },
+
 
    {
     imgsrc: pro19,
@@ -56,13 +65,7 @@ const ProjectCardData = [
     view: "https://drive.google.com/file/d/1-lPwDPdVbwfdMQMiuylTD8lEdK7jEqZC/view?usp=sharing",
   },
  
-  {
-    imgsrc: pro14,
-    title: "Saloon Booking Website",
-    text: "This website was made by using React JS and deployed at Vercel. From this the user can book appointments for his/her desired saloons and can access services. It is made responsive now so kindly view it on laptop and mobile devices.",
-    view: "https://anirudh-saloons.vercel.app/",
-  },
-
+  
    {
     imgsrc: pro1,
     title: "DRDO Project-Intern",
@@ -83,6 +86,14 @@ const ProjectCardData = [
     text: "Developed a responsive web-based Engineering Unit Converter using React JS for accurate, real-time conversions of length, area, volume, temperature, pressure, and mass. Designed to assist mechanical engineering students in simplifying design tasks, lab work, and academic projects by minimizing manual errors and saving time.",
     view: "https://jntuh-mechanical.vercel.app/",
   },
+
+  {
+    imgsrc: pro14,
+    title: "Saloon Booking Website",
+    text: "This website was made by using React JS and deployed at Vercel. From this the user can book appointments for his/her desired saloons and can access services. It is made responsive now so kindly view it on laptop and mobile devices.",
+    view: "https://anirudh-saloons.vercel.app/",
+  },
+
 
   
   
