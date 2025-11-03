@@ -36,7 +36,7 @@ const Footer = () => {
             <a href="https://www.instagram.com/ani_ys_15/" target="_blank" rel="noopener noreferrer">
               <FaInstagram size={50} style={{ color: "yellow", marginRight: "1rem" }} />
             </a>
-            <a href="https://www.linkedin.com/in/sai-anirudh-yellapragada-b82262207/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/sai-anirudh-yellapragada/" target="_blank" rel="noopener noreferrer">
               <FaLinkedin size={50} style={{ color: "yellow", marginRight: "1rem" }} />
             </a>
             <a href="https://github.com/anirudhys123" target="_blank" rel="noopener noreferrer">
