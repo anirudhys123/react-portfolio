@@ -9,13 +9,14 @@ import pro8 from "../assests/ipr.jpg";
 import pro9 from "../assests/3d.jpg";
 import pro10 from "../assests/web.jpg";
 import pro12 from "../assests/chess.png";
+
 // import pro13 from "../assests/food.png"
 // import pro14 from "../assests/saloon.png"
 // import pro15 from "../assests/grocery.png"
 // import pro16 from "../assests/sfd_bmd.png"
 // import pro17 from "../assests/Input.jpg"
 // import pro18 from "../assests/unit.png"
-
+import pro19 from "../assests/auto-cad.jpeg";
 
 const ProjectCardData = [
 
@@ -65,7 +66,13 @@ const ProjectCardData = [
 //     text: "This website was made by using React JS and deployed at Netlify. From this the user can order fruits, vegetables, etc. It is not responsive now so kindly view it on laptop only.",
 //     view: "https://anirudh-grocery.netlify.app/",
 //   },
-  
+
+   {
+    imgsrc: pro19,
+    title: "CAD - Mechanical",
+    text: "Trained in AutoCAD Mechanical (60 hrs), delivering accurate and efficient mechanical designs through consistent practice.",
+    view: "https://drive.google.com/file/d/1OHmd-J4c7Hh_OY_OW_XmxEVQOdpdpFH1/view?usp=sharing",
+  },
   {
     imgsrc: pro4,
     title: "JNTUH Coding Club",
