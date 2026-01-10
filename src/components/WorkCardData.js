@@ -37,12 +37,12 @@ const ProjectCardData = [
   },
 
 
-  {
-    imgsrc: pro13,
-    title:  "Food Delivery Website",
-    text: "This website was made by using React JS and deployed at Vercel. From this the user can order food items at his/her location. It is not responsive now so kindly view it on laptop only.",
-    view: "https://anirudh-foods.vercel.app/",
-  },
+  // {
+  //   imgsrc: pro13,
+  //   title:  "Food Delivery Website",
+  //   text: "This website was made by using React JS and deployed at Vercel. From this the user can order food items at his/her location. It is not responsive now so kindly view it on laptop only.",
+  //   view: "https://anirudh-foods.vercel.app/",
+  // },
   
   {
     imgsrc: pro15,
@@ -64,6 +64,14 @@ const ProjectCardData = [
     text: "Developed a Python script to convert an image into a pencil sketch using OpenCV , sci-kit,  , turtle graphics, pillow, NumPy libraries",
     view: "https://drive.google.com/file/d/1-lPwDPdVbwfdMQMiuylTD8lEdK7jEqZC/view?usp=sharing",
   },
+
+  {
+    imgsrc: pro14,
+    title: "Saloon Booking Website",
+    text: "This website was made by using React JS and deployed at Vercel. From this the user can book appointments for his/her desired saloons and can access services. It is made responsive now so kindly view it on laptop and mobile devices.",
+    view: "https://anirudh-saloons.vercel.app/",
+  },
+
  
   
    {
@@ -80,20 +88,14 @@ const ProjectCardData = [
     view: "https://drive.google.com/file/d/12_O2m0lteulBwN2pQ9gW2FB0PTJBDkBW/view?usp=drive_link",
   },
 
-  {
-    imgsrc: pro18,
-    title: "Engineering Unit Converter",
-    text: "Developed a responsive web-based Engineering Unit Converter using React JS for accurate, real-time conversions of length, area, volume, temperature, pressure, and mass. Designed to assist mechanical engineering students in simplifying design tasks, lab work, and academic projects by minimizing manual errors and saving time.",
-    view: "https://jntuh-mechanical.vercel.app/",
-  },
+  // {
+  //   imgsrc: pro18,
+  //   title: "Engineering Unit Converter",
+  //   text: "Developed a responsive web-based Engineering Unit Converter using React JS for accurate, real-time conversions of length, area, volume, temperature, pressure, and mass. Designed to assist mechanical engineering students in simplifying design tasks, lab work, and academic projects by minimizing manual errors and saving time.",
+  //   view: "https://jntuh-mechanical.vercel.app/",
+  // },
 
-  {
-    imgsrc: pro14,
-    title: "Saloon Booking Website",
-    text: "This website was made by using React JS and deployed at Vercel. From this the user can book appointments for his/her desired saloons and can access services. It is made responsive now so kindly view it on laptop and mobile devices.",
-    view: "https://anirudh-saloons.vercel.app/",
-  },
-
+  
 
   
   

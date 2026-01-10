@@ -6,18 +6,26 @@ const AboutContent = () => {
   return (
     <div className="about">
         <div className="left">
-            <h1><u>My Education</u> </h1> 
-            <p class="edu">Completed my B.Tech (Mechanical Engineering) and M.Tech (Thermal Engineering) from JNTU Hyderabad and maintained an overall cgpa pf 8.5/10.</p> 
-            <h1><u>My Skills</u> </h1> 
-            <p>Design Softwares (Mechanical) : AutoCAD</p>
-            <p>Languages/Softwares: C, JAVA, Python, Ansys, Matlab.</p> 
-            <p> Frontend Technologies: Html, CSS, JavaScript, TypeScript, Bootstrap, React, Material UI.</p>
-            <p>Data Bases: MongoDB , SQL</p>
-            <p> Back end Technologies : Node JS , Express JS</p>
-            <p>Developer Tools: VS Code, Github</p>
-            <p> Hosting Tools : Vercel , Firebase , Netlify , AWS</p>
-            {/* <p>Strengths: Dedication, Sincerity, Honesty, Punctuality.</p> */}
-        </div>
+  <h1><u>My Education</u></h1>
+ <p className="edu">
+  B.Tech (Mechanical) and M.Tech (Thermal) from JNTU Hyderabad with 8.5 CGPA; currently working as an HVAC Site Engineer at CtrlS Data Center, Navi Mumbai.
+</p>
+
+
+  <h1><u>My Skills</u></h1>
+
+<p><b>HVAC Systems:</b> Chilled Water, VRF/VRV, AHU, FCU</p>
+<p><b>Site Work:</b> HVAC installation, ducting, piping & insulation</p>
+<p><b>Drawings & Testing:</b> Shop/GA drawings, pressure testing, flushing</p>
+<p><b>Coordination & Safety:</b> Client & MEP coordination, QA/QC, site safety</p>
+<p><b>Software (HVAC):</b> AutoCAD, Revit MEP, MS Excel</p>
+
+<p><b>Web Development:</b> HTML, CSS, JavaScript, TypeScript, React</p>
+<p><b>Backend & DB:</b> Node.js, Express.js, MongoDB, SQL</p>
+<p><b>Tools & Hosting:</b> GitHub, VS Code, Vercel, Firebase, AWS</p>
+
+</div>
+
         <div className="right">
         </div>
     </div>
