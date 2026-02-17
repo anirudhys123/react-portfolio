@@ -9,12 +9,12 @@ import pro2 from "../assests/railways.jpg";
 // import pro9 from "../assests/3d.jpg";
 // import pro10 from "../assests/web.jpg";
 // import pro12 from "../assests/chess.png";
-import pro13 from "../assests/food.png"
+// import pro13 from "../assests/food.png"
 import pro14 from "../assests/saloon.png"
 import pro15 from "../assests/grocery.png"
 import pro16 from "../assests/sfd_bmd.png"
 import pro17 from "../assests/Input.jpg"
-import pro18 from "../assests/unit.png"
+// import pro18 from "../assests/unit.png"
 import pro19 from "../assests/chat-bot.png"
 import pro20 from "../assests/quiz.png"
 
